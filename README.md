@@ -54,6 +54,3 @@ Vous pouvez consulter [le dépôt GitHub de Next.js](https://github.com/vercel/n
 La façon la plus simple de déployer votre application Next.js est d'utiliser la [Plate-forme Vercel](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) des créateurs de Next.js.
 
 Consultez notre [documentation sur le déploiement de Next.js](https://nextjs.org/docs/deployment) pour plus de détails.
-
-
-Traduit avec www.DeepL.com/Translator (version gratuite)
