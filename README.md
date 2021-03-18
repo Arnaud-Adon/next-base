@@ -1,8 +1,10 @@
-Petit projet permettant de comprendre et assimilier l'architecture et les fonctionnalité de Next.js, notamment:
-
-- `server side rendering`
-- `les pages statiques`
-- Savoir choisir le type de page selon les besoins (`page d'administration - client side redering`, `page contenant des article - pages statiques` - `profil d'un utilisateur - rendu côté serveur`)
+# Next.js - Base
+- Contributeur: Arnaud-Adon
+- Status: CLosed
+- Raison: Petit projet permettant de comprendre et assimilier l'architecture et les fonctionnalité de Next.js, notamment:
+  - `server side rendering`
+  - `les pages statiques`
+  - Savoir choisir le type de page selon les besoins (`page d'administration - client side redering`, `page contenant des article - pages statiques` - `profil  d'un utilisateur - rendu côté serveur`)
 
 <img width="2386" alt="NextJs" src="https://user-images.githubusercontent.com/17828383/111667089-a9894080-8814-11eb-8e5f-79d19de38b6b.png">
 
