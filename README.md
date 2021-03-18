@@ -20,7 +20,9 @@ Pour développer une application hybride, SEO firendly (côté serveur, représe
 
 Liste des région, villes, département de l'api du gouvernement: [`https://api.gouv.fr/les-api/api-geo`](API Geo)
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+
+Ceci est un projet [Next.js](https://nextjs.org/) démarré avec [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Démarrage
 
