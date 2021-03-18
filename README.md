@@ -1,3 +1,21 @@
+Petit projet permettant de comprendre et assimilier l'architecture et les fonctionnalité de Next.js, notamment:
+
+- server side rendering
+- les pages statiques
+- Savoir choisir le type de page selon les besoins (page d'administration - client side redering, page contenant des article - pages statiques - profil d'un utilisateur - rendu côté serveur
+
+<img width="2386" alt="NextJs" src="https://user-images.githubusercontent.com/17828383/111667089-a9894080-8814-11eb-8e5f-79d19de38b6b.png">
+
+<img width="5595" alt="Fonctionnement_NextJs" src="https://user-images.githubusercontent.com/17828383/111667158-b9088980-8814-11eb-8356-9d2983e075a0.png">
+
+## Pourquoi choisir ce framework ?
+
+Pour développer une application hybride, SEO firendly (côté serveur, représentation statique)
+
+## API utilisées
+
+Liste des région, villes, département de l'api du gouvernement: [`https://api.gouv.fr/les-api/api-geo`](API Geo)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
