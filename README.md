@@ -18,7 +18,7 @@ Pour développer une application hybride, SEO firendly (côté serveur, représe
 
 ## API utilisées
 
-Liste des région, villes, département de l'api du gouvernement: [`https://api.gouv.fr/les-api/api-geo`](API Geo)
+Liste des région, villes, département de l'api du gouvernement: [API Geo](https://api.gouv.fr/les-api/api-geo)
 
 
 
